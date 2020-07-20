@@ -42,3 +42,4 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 ``` bash
 $ update test
 ```
+More info: [source](https://clannadcheng.github.io/2020/07/20/hello-world/)
