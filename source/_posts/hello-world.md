@@ -38,3 +38,7 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ### branch auntomatic deploy is commit 
+
+``` bash
+$ update test
+```
