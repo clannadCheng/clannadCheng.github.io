@@ -1,6 +1,7 @@
 ---
 title: Hello World
 ---
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
@@ -37,9 +38,10 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-### branch auntomatic deploy is commit 
+### branch auntomatic deploy is commit
 
 ``` bash
 $ update test
 ```
+
 More info: [source](https://clannadcheng.github.io/2020/07/20/hello-world/)
